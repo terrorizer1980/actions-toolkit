@@ -60,7 +60,7 @@
     "@types/minimist": "^1.2.0",
     "@types/signale": "^1.4.1",
     "enquirer": "^2.3.5",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "signale": "^1.4.0"
   },
   "jest": {
